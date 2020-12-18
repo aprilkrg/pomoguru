@@ -1,0 +1,11 @@
+body {
+    background-color: var(--darkest);
+}
+
+:root {
+    --darkest: #262626;
+    --dark-pink: #D93D3D;
+    --light-pink: #F24452;
+    --dark-green: #62BF06;
+    --light-green: #95D904;
+}
